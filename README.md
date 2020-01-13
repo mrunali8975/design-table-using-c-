@@ -2,7 +2,7 @@
 how to create  table in c++  using 2 dimensional  array which help to analysis of  datato 
 here i will show the code of c++ language which help you to design table.For this use turbo c++ compiler and dev c++ etc'.
 
-To install dev c++ click here https://sourceforge.net/projects/orwelldevcpp/files/latest/downloadI
+To install dev c++ [click here]( https://sourceforge.net/projects/orwelldevcpp/files/latest/downloadI)
 
 If we have question such as
 
@@ -15,7 +15,7 @@ a. Read the votes from above data table that contains one row for each place.
 b. Display the table content along with total votes given at each place.
 c. Compute and display the total number of votes received by each candidate. 
 
-Table is given below:
+**Table is given below:**
 
 Place No.                         Candidates  
                           C1   C2   C3   C4
@@ -34,7 +34,7 @@ P4              134 248 123 243
 
 
 
-To create and show all the answer just look at my given code:
+**To create and show all the answer just look at my given code:**
 
 
 #include <iostream>
@@ -149,7 +149,7 @@ In above code there using class we defined three member fuction
 
 
 
-thank you
+**thank you**
 
 
 
