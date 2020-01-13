@@ -145,8 +145,11 @@ In above code there using class we defined three member fuction
 
 3.total_votes_at_place --to compute votes at each place and display
 
-
 4. total_votes_of_candidates--to compute votest of each candidates and display
+
+
+
+thank you
 
 
 
